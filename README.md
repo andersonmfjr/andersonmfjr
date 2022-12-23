@@ -6,7 +6,7 @@
 
 I've been working as Front-End Developer since 2017. I also like to be involved in the entire software lifecycle, from the concept to the implementation and monitoring.
 
-I create digital products and inner tools (especially for developers).
+I develop digital products and inner tools (especially for developers).
 
 #### Would you like to find me?
 
