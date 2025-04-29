@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-👨‍💻 Senior Front-End Developer at [Itaú](https://www.instagram.com/itubers/)
+👨‍💻 Senior Front-End Developer at [**tm**digital](https://tmdigital.ag/)
 
 I've been working as Front-End Developer since 2017. I also like to be involved in the entire software lifecycle, from the concept to the implementation and monitoring.
 
